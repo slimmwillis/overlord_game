@@ -1,0 +1,20 @@
+- make guest login
+- create account 
+- handle your dead: make usable respawn function in entity class
+- healthbar hp percent in hud scene
+- add sounds
+- Add a second type of attack that hits air units. Like flak cannons
+- create a robot which can transform to tank
+- change to typescript
+- make loading screen
+
+
+
+@ Planned development of the game
+The player can choose robots and custom fit for battles. Battles earned saves to credits that can be spent on their robots, bases and armies.
+
+
+
+@ Describe
+There is a robot. It walks, and transforms into like a hover craft. It has multiple weapon types and many enemy types. Even air units. Certain weapons are better for other things.
+It will expand into a game that this mode is just like a mini game to earn credits to build up your robots, base, armies and spaceship

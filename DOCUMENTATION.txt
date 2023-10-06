@@ -1,0 +1,14 @@
+@ Variables To ATTACK:
+
+ - In Entity class:
+    - this.isALive
+    - this.canAttack
+
+ - In ShotManager class:
+    - this.canAttack
+
+ - In tankBars.ammoBar class:
+    - isEmpty() {
+        return this.ammoImages.length === 0;
+    }
+

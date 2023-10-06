@@ -1,0 +1,12 @@
+{
+  "count": 1,
+  "anims": {
+    "play": {
+      "key": "shoot-sprite-",
+      "sprite": "shoot-sprite-",
+      "frames": [0, 1, 2, 3],
+      "frameRate": 15,
+      "repeat": 0
+    }
+  }
+}

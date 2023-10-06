@@ -1,0 +1,12 @@
+{
+  "count": 1,
+  "anims": {
+    "play": {
+      "key": "track-sprite-",
+      "sprite": "track-sprite-",
+      "frames": [0, 1],
+      "frameRate": 15,
+      "repeat": 0
+    }
+  }
+}

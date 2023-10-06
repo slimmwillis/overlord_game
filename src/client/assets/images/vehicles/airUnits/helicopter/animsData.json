@@ -1,0 +1,26 @@
+{
+  "count": 1,
+  "anims": {
+    "idle": {
+      "key": "helicopter-idle-",
+      "sprite": "helicopter-sprite-",
+      "frames": [0],
+      "frameRate": 15,
+      "repeat": 0
+    },
+    "dead": {
+      "key": "helicopter-crash-",
+      "sprite": "helicopter-sprite-",
+      "frames":  [1],
+      "frameRate": 15,
+      "repeat": 0
+    },
+     "propeller": {
+      "key": "helicopter-propeller-anim-",
+      "sprite": "helicopter-sprite-",
+      "frames":  [2, 3],
+      "frameRate": 15,
+      "repeat": -1
+    }
+  }
+}

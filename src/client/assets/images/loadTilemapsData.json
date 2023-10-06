@@ -1,0 +1,8 @@
+{
+    "battleMap": {
+      "path": "maps",
+      "key": "ArmyGameMaps",
+      "filename": "ArmyGameMaps.json"
+    }
+
+  }

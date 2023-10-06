@@ -1,0 +1,65 @@
+{
+  "bullet": {
+    "path": "bullets",
+    "key": "bullet-",
+    "count": 4
+  },
+  "hudHealthBar": {
+    "path": "bars/bar",
+    "key": "health-bar"
+  },
+  "hudEnergyBar": {
+    "path": "bars/bar",
+    "key": "energy-bar"
+  },
+  "entityHealthbar": {
+    "path": "bars/bar",
+    "key": "tank-healthbar"
+  },
+  "hudUnitBarContainer": {
+    "path": "bars/container",
+    "key": "unitBar-container"
+  },
+  "healthIcon": {
+    "path": "hudIcons",
+    "key": "health-icon"
+  },
+  "energyIcon": {
+    "path": "hudIcons",
+    "key": "energy-icon"
+  },
+  "entityUnitBarContainer": {
+    "path": "bars/container",
+    "key": "tank-health-bar-container"
+  },
+  "playerAmmoBarBarContainer": {
+    "path": "bars/container",
+    "key": "tank-ammo-bar-container"
+  },
+  "ammoCountImage": {
+    "path": "",
+    "key": "ammo-count-image"
+  },
+  "mousePointer": {
+    "path": "mousePointers",
+    "key": "mouse-pointer-viewfinder"
+  },
+  "hudHurtScreen": {
+    "path": "",
+    "key": "hurt-screen"
+  },
+  "playerTankBody": {
+    "path": "player/body",
+    "key": "tank-body-",
+    "count": 2
+  },
+  "playerTankGun": {
+    "path": "player/gun",
+    "key": "tank-gun-",
+    "count": 2
+  },
+  "battleMap": {
+    "path": "maps",
+    "key": "battle_map_1"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "shootImpact": {
+    "path": "effects/shootImpact",
+    "key": "shoot-impact-sprite-",
+    "count": 1,
+    "frameWidth": 568,
+    "frameHeight": 142,
+    "columns": 4,
+    "rows": 1
+  },
+  "shootFire": {
+    "path": "effects/shootFire",
+    "key": "shoot-sprite-",
+    "count": 1,
+    "frameWidth": 848,
+    "frameHeight": 212,
+    "columns": 4,
+    "rows": 1
+  },
+  "botTank": {
+    "path": "vehicles/landUnits/tanks",
+    "key": "tank-sprite-",
+    "count": 1,
+    "frameWidth": 621,
+    "frameHeight": 566,
+    "columns": 4,
+    "rows": 2
+  },
+  "explosionEffect": {
+    "path": "effects/explosion",
+    "key": "object-destroy-sprite-",
+    "count": 2,
+    "frameWidth": 1743,
+    "frameHeight": 194,
+    "columns": 9,
+    "rows": 1
+  },
+  "botSoldier": {
+    "path": "soldiers",
+    "key": "soldier-spritesheet-",
+    "count": 2,
+    "frameWidth": 853,
+    "frameHeight": 639,
+    "columns": 4,
+    "rows": 3
+  },
+  "botSoldierLegs": {
+    "path": "soldiers",
+    "key": "soldier-move-spritesheet-",
+    "count": 2,
+    "frameWidth": 1471,
+    "frameHeight": 210,
+    "columns": 7,
+    "rows": 1
+  },
+  "botHelicopter": {
+    "path": "vehicles/airUnits/helicopter",
+    "key": "helicopter-sprite-",
+    "count": 1,
+    "frameWidth": 1058,
+    "frameHeight": 1058,
+    "columns": 2,
+    "rows": 2
+  },
+  "playerTankTrack": {
+    "path": "player/track",
+    "key": "track-sprite-",
+    "count": 1,
+    "frameWidth": 54,
+    "frameHeight": 158,
+    "columns": 2,
+    "rows": 1
+  }
+}

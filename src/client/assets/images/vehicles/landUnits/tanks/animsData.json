@@ -1,0 +1,41 @@
+{
+  "count": 1,
+  "anims": {
+    "move": {
+      "key": "tank-move-anim-",
+      "sprite": "tank-sprite-",
+      "frames":[0, 1, 2, 3],
+      "frameRate": 15,
+      "repeat": -1
+    },
+    "bodyIdle": {
+      "key": "tank-body-idle-anim-",
+      "sprite": "tank-sprite-",
+      "frames":[0],
+      "frameRate": 15,
+      "repeat": 0
+    },
+    "gunIdle": {
+      "key": "tank-gun-idle-anim-",
+      "sprite": "tank-sprite-",
+      "frames":[6],
+      "frameRate": 15,
+      "repeat": 0
+    },
+    "dead": {
+      "key": "tank-crash-anim-",
+      "sprite": "tank-sprite-",
+      "frames":[7],
+      "frameRate": 15,
+      "repeat": 0
+    },
+    "attack": {
+      "key": "tank-gun-attack-anim-",
+      "sprite": "tank-sprite-",
+      "frames":[4, 5, 6],
+      "frameRate": 15,
+      "repeat": 0
+    }
+  }
+}
+
